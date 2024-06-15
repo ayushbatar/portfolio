@@ -31,28 +31,21 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "ToDos App 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A to-do list app that allows users to add, edit, and delete tasks. The app is deployed on netlify. You can see the code on GitHub.",
+    url: "https://ayush-todos.netlify.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Notes App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "An app that allows users to add, edit, and delete notes. The app is deployed on netlify. You can see the code on GitHub.",
+    url: "https://github.com/ayushbatar/NotesApp",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "JS-Exercises",
+    description: "A collection of JavaScript exercises. You can see the code on GitHub.",
+    url: "https://github.com/ayushbatar/JS-Exercises",
   },
 ];
 
