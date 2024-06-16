@@ -47,6 +47,12 @@ const projectList = [
     description: "A collection of JavaScript exercises. You can see the code on GitHub.",
     url: "https://github.com/ayushbatar/JS-Exercises",
   },
+  {
+    title: "Calcultor",
+    description: "A collection of JavaScript exercises. You can see the code on GitHub.",
+    url: "https://github.com/ayushbatar/Calculator",
+  },
+
 ];
 
 const Portfolio = () => {
